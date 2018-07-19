@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="survey_title_txt">Enter Survey Title</string>
+    <string name="survey_id_text">Enter Survey ID</string>
+    <string name="survey_create_text">CREATE</string>
+    <string name="survey_id_hint">Enter Survey Id</string>
+    <string name="question_hdng_text">Question:</string>
+    <string name="option_hdng_text">Options:</string>
+    <string name="sbmit_qn_text">ADD</string>
+    <string name="correct_ans_text">Yes</string>
+    <string name="wrong_ans_text">No</string>
+    <string name="survey_id_hint_txt">Survey Id</string>
+    <string name="sample_qn_txt">Sample question</string>
+    <string name="sample_qn_option">Sample option</string>
+    <string name="pst_survey_btn">Submit</string>
+    <string name="admin_survey_id">Survey Id</string>
+    <string name="admin_survey_name">Survey Name</string>
+    <string name="select_date_text">Select End Date</string>
+    <string name="select_time_text">Select End Time</string>
+    <string name="admin_survey_btn_text">Result_Status</string>
+    <string name="survy_length_hdng">Survey length</string>
+
+
+</resources>
